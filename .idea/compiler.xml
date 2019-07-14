@@ -6,7 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="beacon-ui" />
+        <module name="beacon-web-core" />
+        <module name="beacon_grow_test1" />
+        <module name="traning1" />
         <module name="hello2" />
+        <module name="stream" />
+        <module name="jce2java" />
+      </profile>
+      <profile name="Annotation profile for beacon_real_etl_biz" enabled="true">
+        <sourceOutputDir name="dist/generated-sources/annotations" />
+        <sourceTestOutputDir name="dist/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="beacon_real_etl_biz" />
+        <module name="Beacon_real_etl" />
       </profile>
     </annotationProcessing>
   </component>

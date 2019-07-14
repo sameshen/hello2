@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../beacon_analytics_api" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../stream-lib/pom.xml" />
+        <option value="$PROJECT_DIR$/../beacon_analytics_core/pom.xml" />
+        <option value="$PROJECT_DIR$/../beacon_analytics_core/jce.pom.xml" />
+        <option value="$PROJECT_DIR$/../beacon_analytics_api/pom.xml" />
+        <option value="$PROJECT_DIR$/../beacon_real_etl_biz/pom.xml" />
+        <option value="$PROJECT_DIR$/../beacon_real_etl/pom.xml" />
+        <option value="F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/pom.xml" />
+        <option value="F:/study/beacon_coding_growing_project/第一期/sameshen/beacon_grow_test1/pom.xml" />
       </list>
     </option>
   </component>

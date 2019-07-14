@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../beacon_analytics_api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../beacon_analytics_core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../beacon_real_etl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../beacon_real_etl_biz" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../stream-lib" vcs="Git" />
   </component>
 </project>

@@ -1,9 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="88d446e0-bbee-452d-a7a9-117b6d513725" name="Default Changelist" comment="" />
+    <list default="true" id="88d446e0-bbee-452d-a7a9-117b6d513725" name="Default Changelist" comment="test2">
+      <change afterPath="$PROJECT_DIR$/../beacon_analytics_core/jce2java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/beacon/test1/SparkTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../beacon_analytics_core/src/main/java/com/wsd/beacon/service/notice/DownLaodEmailLogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../beacon_analytics_core/src/main/java/com/wsd/beacon/service/notice/DownLaodEmailLogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beacon/test1/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beacon/test1/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/beacon/test1/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/beacon/test1/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/beacon/test1/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/beacon/test1/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/beacon/test1/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/beacon/test1/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stream-lib/src/test/java/com/clearspring/analytics/stream/cardinality/RegisterSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stream-lib/src/test/java/com/clearspring/analytics/stream/cardinality/RegisterSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stream-lib/src/test/java/com/clearspring/analytics/stream/cardinality/TestHyperLogLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stream-lib/src/test/java/com/clearspring/analytics/stream/cardinality/TestHyperLogLog.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../stream-lib/target/" />
+    <ignored path="$PROJECT_DIR$/../beacon_analytics_core/build/classes/" />
+    <ignored path="$PROJECT_DIR$/../beacon_analytics_core/target/" />
+    <ignored path="$PROJECT_DIR$/../beacon_analytics_api/target/" />
+    <ignored path="$PROJECT_DIR$/../beacon_real_etl_biz/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/../beacon_real_etl_biz/build/test-classes/" />
+    <ignored path="$PROJECT_DIR$/../beacon_real_etl_biz/dist/" />
+    <ignored path="$PROJECT_DIR$/../beacon_real_etl/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/../beacon_real_etl/build/test-classes/" />
+    <ignored path="$PROJECT_DIR$/../beacon_real_etl/dist/" />
+    <ignored path="F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/target/" />
+    <ignored path="F:/study/beacon_coding_growing_project/第一期/sameshen/beacon_grow_test1/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,25 +43,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/beacon/test1/App.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/beacon/test1/SparkTest1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="748">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,28 +60,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/beacon/test1/AppTest.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-              <folding>
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="399">
+              <caret line="96" column="32" lean-forward="true" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/beacon/test1/App.java" />
+        <option value="$PROJECT_DIR$/../stream-lib/src/test/java/com/clearspring/analytics/stream/cardinality/RegisterSetTest.java" />
+        <option value="$PROJECT_DIR$/../stream-lib/src/test/java/com/clearspring/analytics/stream/cardinality/TestHyperLogLog.java" />
+        <option value="$PROJECT_DIR$/../stream-lib/src/test/java/com/clearspring/analytics/stream/cardinality/SameTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/beacon/test1/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/beacon/test1/Test2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/beacon/test1/Test.kt" />
+        <option value="$PROJECT_DIR$/src/test/java/com/beacon/test1/AppTest.java" />
+        <option value="F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/index/Index.java" />
+        <option value="$PROJECT_DIR$/file/log.txt" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/beacon/test1/SparkTest1.java" />
       </list>
     </option>
   </component>
@@ -77,21 +114,27 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1391" />
-    <option name="y" value="125" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="253" />
+    <option name="y" value="279" />
     <option name="width" value="1400" />
     <option name="height" value="998" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="hello2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="beacon_grow_test1" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="hello2" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello2" type="462c0819:PsiDirectoryNode" />
@@ -101,21 +144,31 @@
               <item name="hello2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hello2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/study/beacon_coding_growing_project/第一期/sameshen/beacon_grow_test1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -129,9 +182,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.beacon.test1.App" />
+  <component name="RunManager" selected="Application.SparkTest1">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.beacon.App" />
+      <module name="traning1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beacon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EtlLocalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tencent.beacon.etlbiz.test.EtlLocalMain" />
+      <module name="beacon_real_etl_biz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tencent.beacon.etlbiz.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.beacon.test1.SparkTest1" />
       <module name="hello2" />
       <extension name="coverage">
         <pattern>
@@ -158,10 +237,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppTest.testGetAndSet_withSmallBits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hello2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.beacon.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.beacon.test1" />
+      <option name="MAIN_CLASS_NAME" value="com.beacon.test1.AppTest" />
+      <option name="METHOD_NAME" value="testGetAndSet_withSmallBits" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SparkTest1" />
         <item itemvalue="JUnit.AppTest" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.EtlLocalMain" />
+        <item itemvalue="JUnit.AppTest.testGetAndSet_withSmallBits" />
       </list>
     </recent_temporary>
   </component>
@@ -175,84 +273,514 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562417404508</updated>
-      <workItem from="1562417408453" duration="1888000" />
+      <workItem from="1562417408453" duration="3102000" />
+      <workItem from="1562513917149" duration="768000" />
+      <workItem from="1562595388830" duration="3616000" />
+      <workItem from="1562943179194" duration="2499000" />
+      <workItem from="1563090031640" duration="609000" />
+      <workItem from="1563112673763" duration="4641000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1562419626126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562419626126</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test2">
+      <created>1562419704244</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562419704244</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test2">
+      <created>1562419911696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562419911696</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest - 2019.07.06 at 20h 51m 13s.xml">
+    <history-entry file="RegisterSetTest_testGetAndSet_withSmallBits - 2019.07.08 at 22h 36m 46s.xml">
+      <configuration name="RegisterSetTest.testGetAndSet_withSmallBits" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegisterSetTest_testGetAndSet_withSmallBits - 2019.07.08 at 22h 37m 26s.xml">
+      <configuration name="RegisterSetTest.testGetAndSet_withSmallBits" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHyperLogLog_testComputeCount - 2019.07.08 at 22h 38m 00s.xml">
+      <configuration name="TestHyperLogLog.testComputeCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestHyperLogLog_testComputeCount - 2019.07.08 at 22h 38m 18s.xml">
+      <configuration name="TestHyperLogLog.testComputeCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SameTest - 2019.07.08 at 22h 41m 29s.xml">
+      <configuration name="SameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SameTest - 2019.07.08 at 22h 43m 04s.xml">
+      <configuration name="SameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SameTest_testComputeCount - 2019.07.08 at 22h 43m 10s.xml">
+      <configuration name="SameTest.testComputeCount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.07.08 at 22h 54m 18s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_testGetAndSet_withSmallBits - 2019.07.08 at 22h 54m 43s.xml">
+      <configuration name="AppTest.testGetAndSet_withSmallBits" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest - 2019.07.14 at 22h 01m 20s.xml">
       <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1888000" />
+    <option name="totallyTimeSpent" value="15235000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1391" y="125" width="1400" height="998" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14308426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936978" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936978" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297619" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21939586" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3297619" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32857144" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.3297619" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="test2" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/../stream-lib/src/main/java/com/clearspring/analytics/stream/cardinality/HyperLogLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-764">
+          <caret line="79" column="38" selection-start-line="79" selection-start-column="38" selection-end-line="79" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../stream-lib/src/test/java/com/clearspring/analytics/stream/cardinality/SameTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/beacon/test1/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/../stream-lib/src/test/java/com/clearspring/analytics/TestUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="230">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../stream-lib/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="50" column="27" lean-forward="true" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../stream-lib/src/test/java/com/clearspring/analytics/stream/cardinality/TestHyperLogLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/beacon/test1/Test2.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/beacon/test1/Test.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/beacon/test1/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/beacon/test1/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state relative-caret-position="293">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../stream-lib/src/test/java/com/clearspring/analytics/stream/cardinality/RegisterSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="42" selection-start-line="42" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beacon_analytics_core/src/main/java/com/wsd/beacon/service/notice/NoticeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-879">
+          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beacon_analytics_core/src/main/java/com/wsd/beacon/service/notice/DownLaodEmailLogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beacon_real_etl_biz/WEB-INF/src/com/tencent/beacon/etlbiz/test/EtlLocalMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beacon_real_etl_biz/WEB-INF/src/com/tencent/beacon/etlbiz/main/KuduClientHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beacon_real_etl_biz/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beacon_real_etl/WEB-INF/src/tdbank.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beacon_real_etl/WEB-INF/src/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beacon_real_etl/WEB-INF/src/json_parse.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beacon_real_etl/WEB-INF/src/com/tencent/beacon/etl/startup/StartUpListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-397">
+          <caret line="26" column="49" lean-forward="true" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/datasource/DataFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/datasource/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/datasource/IndexHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/index/ClusteredIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/roaringbitmap/RoaringBitmap/0.7.45/RoaringBitmap-0.7.45.jar!/org/roaringbitmap/longlong/Roaring64NavigableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1840">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/index/Index.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/index/bitmap/BitmapIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/index/btree/AbstractBtreeIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/index/btree/ClusteredBTreeIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/index/btree/ValueFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/resources/btree4j-0.9.0-jar-with-dependencies.jar!/btree4j/Value.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/model/Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/index/btree/NormalBTreeIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/index/IndexException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/index/NormalIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/leahzeng/traning1/src/main/java/com/beacon/model/DataMeta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/beacon/test1/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/sameshen/beacon_grow_test1/src/main/java/com/beacon/StartMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0.jar!/org/apache/spark/api/java/function/Function2.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="92" column="19" selection-start-line="92" selection-start-column="19" selection-end-line="92" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/study/beacon_coding_growing_project/第一期/sameshen/beacon_grow_test1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="25" column="21" selection-start-line="18" selection-start-column="11" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="96" column="32" lean-forward="true" selection-start-line="96" selection-start-column="32" selection-end-line="96" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/maven/repository/org/apache/spark/spark-core_2.11/2.2.0/spark-core_2.11-2.2.0.jar!/org/apache/spark/api/java/function/PairFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/beacon/test1/SparkTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
